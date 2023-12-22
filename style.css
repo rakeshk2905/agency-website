@@ -1,0 +1,57 @@
+#image {
+  width: 120px;
+  height: 25px;
+}
+
+#heading {
+  font-size: xxx-large;
+}
+
+#headcreative {
+  color: blue;
+}
+
+.underheading{
+    font-size: 20px;
+}
+
+#beautiful {
+  width: 150px;
+  height: 120px;
+}
+
+.para1 {
+  font-size: small;
+  float: right;
+  margin-right: 50px;
+}
+
+#construction {
+  width: 150px;
+  height: 120px;
+}
+
+.para2 {
+  font-size: small;
+  float: right;
+  margin-right: 50px;
+}
+
+#div1 {
+  float: left;
+  width: 50%;
+  float: left;
+  clear: right;
+}
+
+#div2 {
+  float: left;
+  width: 50%;
+  clear: right;
+  float: right;
+}
+
+body {
+  background-color: #faf9f6;
+  font-family: "Poppins", sans-serif;
+}
